@@ -1,0 +1,15 @@
+{
+  "user": [
+    {
+      "username": "user@example.com",
+      "password": "2b217fd26f0506d7cfe87e08483838fe8bf130ce6b3a987d94adfd3d043454a5",
+      "password_backup": "password@123",
+      "bearerToken": "4bb819b1d9a8a94af505f1810cb70cfe2e1a011119a24af8659002d56f668eed",
+      "refreshToken": "9074ffbb2e55c7e2517dc47c291a9d12f7bca8a57b0ee8b14c176b09cff50d3d",
+      "expiration": "2023-08-25T07:32:00.686Z",
+      "rememberMe": true,
+      "bearerTokenExpiration": "2023-08-24T10:15:57.425Z",
+      "refreshTokenExpiration": "2023-08-24T10:26:57.425Z"
+    }
+  ]
+}
